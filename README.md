@@ -1,1 +1,2 @@
-# canvas-calendar-view
+# Canvas Calendar View
+
